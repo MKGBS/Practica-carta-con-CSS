@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:  border-box;
+    text-decoration: none;
+}
+
+/* Estilos generales para todo el body */
+body {
+    font-family: "Sofia", sans-serif;
+    font-size: 20px;
+    color: #333;
+    text-align: left;
+    line-height: 1.5;
+    margin: 10px 92px 14px 95px;
+}
+
+/* Word-wrap */
+div.boxbody {
+    word-wrap: break-word;
+}
+
+/* Estilo para el elemento address con la clase "alinear-derecha" */
+.address.alinear-derecha {
+    
+    text-align: right; /* Alinea el texto a la derecha */
+}
+
+/* Estilos para direcciones */
+address {
+    font-size: 20px;
+}
+
+h1 {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+h2 {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+h5 {
+    display: inline-flex;
+    font-weight: bold;
+}
+
+ul,ol{
+    padding: 20px;
+}
+
+/* Cursivas */
+.texto-cursiva {
+    font-style: italic;
+}
+
+div {
+    width: 100%; 
+}
+
+/* Estilos para enlaces */
+a {
+    text-decoration: none;
+    color: #0073e6;
+}
+
+
+
+
+
+
+
